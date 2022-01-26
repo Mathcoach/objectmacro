@@ -5,5 +5,5 @@ mvn deploy:deploy-file -DgroupId=de.htwds \
   -Dpackaging=jar \
   -Dfile=sablecc-4-beta.4/lib/objectmacro.jar \
   -DrepositoryId=central\
-  -Durl='http://bayes.htwsaar.de/artifactory/ext-release-local'
+  -Durl='https://bayes.htwsaar.de/nexus/repository/maven-releases/'
 
