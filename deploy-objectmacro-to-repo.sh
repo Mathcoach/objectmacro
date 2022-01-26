@@ -1,5 +1,6 @@
 #!/bin/sh
-mvn deploy:deploy-file -DgroupId=de.htwds \
+set -x
+mvn deploy:deploy-file -DgroupId=de.htwsaar.mc\
   -DartifactId=objectmacro \
   -Dversion='4-beta.4' \
   -Dpackaging=jar \
