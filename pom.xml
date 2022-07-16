@@ -1,0 +1,26 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>de.htwsaar.mc</groupId>
+  <artifactId>objectmacro</artifactId>
+  <version>4-beta.4-SNAPSHOT</version>
+  <packaging>jar</packaging>
+ 
+  <name>Objectmacro</name>
+  <description>Wrapper Project to deploy SableCC-4-beta-4 und ObjectMacro in Maven Repos</description>
+
+  <url>https://sablecc.org</url>
+ 
+  <licenses>
+    <license>
+      <name>Apache License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+ 
+  <scm>
+    <url>https://github.com/SableCC/sablecc</url>
+  </scm>
+  
+</project>
