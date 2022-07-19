@@ -1,2 +1,5 @@
-Wrapper Projekt um SableCC-4-beta-4 und ObjectMacro in Maven Repos
-zu deployment
+Wrapper Project to deploy `objectmacro` to a maven repository
+
+
+
+Origin: https://sablecc.org
