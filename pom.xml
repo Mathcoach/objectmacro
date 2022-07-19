@@ -3,7 +3,7 @@
 
   <groupId>de.htwsaar.mc</groupId>
   <artifactId>objectmacro</artifactId>
-  <version>4-beta.4-SNAPSHOT</version>
+  <version>4-beta.4</version>
   <packaging>jar</packaging>
  
   <name>Objectmacro</name>
