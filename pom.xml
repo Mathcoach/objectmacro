@@ -22,5 +22,67 @@
     <scm>
         <url>https://github.com/SableCC/sablecc</url>
     </scm>
+    <developers>
+        <!--
+        SableCC
+ Copyright 2007 Etienne M. Gagnon <egagnon@j-meg.com>
+ Copyright 2007 Patrick Pelletier <pp.pelletier@gmail.com>
+ Copyright 2007 Raymond Audet <raymond.audet@gmail.com>
+ Copyright 2007 Jon Shapcott <eden@xibalba.demon.co.uk>
+ Copyright 2008 Etienne M. Gagnon <egagnon@j-meg.com>
+ Copyright 2009 Etienne M. Gagnon <egagnon@j-meg.com>
+ Copyright 2009 Lucas Satabin <lucassat@n7mm.org>
+ Copyright 2009 Arnaud Gody <arnaudgody@free.fr>
+ Copyright 2010 Etienne M. Gagnon <egagnon@j-meg.com>
+ Copyright 2011 Etienne M. Gagnon <egagnon@j-meg.com>
+ Copyright 2011 Jerome Dassonville <dassonville.jerome@gmail.com>
+ Copyright 2011 Jean Privat <jean@pryen.org>
+        -->
+        <developer>
+            <name>Etienne M. Gagnon</name>
+            <email>egagnon@j-meg.com</email>
+        </developer>
+        <developer>
+            <name>Patrick Pelletier</name>
+            <email>pp.pelletier@gmail.com</email>
+        </developer>
+        <developer>
+            <name>Raymond Audet</name>
+            <email>raymond.audet@gmail.com</email>
+        </developer>
+        <developer>
+            <name>Jon Shapcott</name>
+            <email>eden@xibalba.demon.co.uk</email>
+        </developer>
+        <developer>
+            <name>Lucas Satabin</name>
+            <email>lucassat@n7mm.org</email>
+        </developer>
+        <developer>
+            <name>Arnaud Gody</name>
+            <email>arnaudgody@free.fr</email>
+        </developer>
+        <developer>
+            <name>Jerome Dassonville</name>
+            <email>dassonville.jerome@gmail.com</email>
+        </developer>
+        <developer>
+            <name>Jean Privat</name>
+            <email>jean@pryen.org</email>
+        </developer>
 
+        <developer>
+            <name>Hong-Phuc Bui</name>
+            <email>hong-phuc.bui@htwsaar.de</email>
+            <organization>HTW Saar</organization>
+            <organizationUrl>https://mathcoach.htwssaar.de</organizationUrl>
+            <roles>
+                <role>
+                    I only re-distribute this wonderful project to maven central. I
+                    don't write any line of code in this project. Many thank to the true
+                    devlopers, who create this project
+                </role>
+            </roles>
+        </developer>
+    </developers>
 </project>
